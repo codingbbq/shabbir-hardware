@@ -1,0 +1,909 @@
+[
+	{
+		"category": "Black Rubber Caster",
+		"description": {
+			"housing": "Pressed steel, zinc plated, needle / roller bearing",
+			"material": "Black rubber + Steel core"
+		},
+		"images": [
+			"./black-rubber-caster/W0008XXXA.png",
+			"./black-rubber-caster/W0008XXXAF.png",
+			"./black-rubber-caster/W0008XXXAB.png",
+			"./black-rubber-caster/W0008XXXAT.png",
+			"./black-rubber-caster/W0008XXXABT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W008075A",
+				"Wheel Diameter X Wheel Height": "75x23",
+				"Overall Height": "96",
+				"Top Plate Size": "82x67",
+				"Bolt Hole Spacing": "60x45",
+				"Bolt Hole Diameter": "11x8.5",
+				"Load Capacity (Kg)": "40",
+				"Stem Diameter": "10x30"
+			},
+			{
+				"Art No.": "W008100A",
+				"Wheel Diameter X Wheel Height": "100x27",
+				"Overall Height": "130",
+				"Top Plate Size": "102x84",
+				"Bolt Hole Spacing": "80x60",
+				"Bolt Hole Diameter": "14x9",
+				"Load Capacity (Kg)": "60",
+				"Stem Diameter": "12x45"
+			},
+			{
+				"Art No.": "W008125A",
+				"Wheel Diameter X Wheel Height": "125x34",
+				"Overall Height": "155",
+				"Top Plate Size": "102x84",
+				"Bolt Hole Spacing": "80x60",
+				"Bolt Hole Diameter": "14x9",
+				"Load Capacity (Kg)": "100",
+				"Stem Diameter": "12x45"
+			},
+			{
+				"Art No.": "W008150A",
+				"Wheel Diameter X Wheel Height": "150x40",
+				"Overall Height": "195",
+				"Top Plate Size": "135x105",
+				"Bolt Hole Spacing": "105x75",
+				"Bolt Hole Diameter": "16x11",
+				"Load Capacity (Kg)": "130",
+				"Stem Diameter": "16x40"
+			},
+			{
+				"Art No.": "W008200A",
+				"Wheel Diameter X Wheel Height": "200x46",
+				"Overall Height": "235",
+				"Top Plate Size": "135x105",
+				"Bolt Hole Spacing": "105x75",
+				"Bolt Hole Diameter": "16x11",
+				"Load Capacity (Kg)": "150",
+				"Stem Diameter": "16x40"
+			}
+		]
+	},
+	{
+		"category": "Black PU/PVC Caster",
+		"description": {
+			"housing": "Pressed steel, Powder coated, Double ball bearing",
+			"material": "Polyurethane / PVC"
+		},
+		"images": [
+			"./black-pu-pvc-caster/W007B0XXPU.png",
+			"./black-pu-pvc-caster/W007B0XXPUF.png",
+			"./black-pu-pvc-caster/W007B0XXPUB.png",
+			"./black-pu-pvc-caster/W007B0XXPUT.png",
+			"./black-pu-pvc-caster/W007B0XXPUBT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W007B042PU",
+				"Wheel Diameter X Wheel Height": "40x20",
+				"Overall Height": "60",
+				"Top Plate Size": "60x43",
+				"Bolt Hole Spacing": "30x45",
+				"Bolt Hole Diameter": "6x9",
+				"Load Capacity (Kg)": "50",
+				"Stem Diameter": "8/10/12 X 25"
+			},
+			{
+				"Art No.": "W007B050PU",
+				"Wheel Diameter X Wheel Height": "50x24",
+				"Overall Height": "71",
+				"Top Plate Size": "70x50",
+				"Bolt Hole Spacing": "35x50",
+				"Bolt Hole Diameter": "8x11",
+				"Load Capacity (Kg)": "60",
+				"Stem Diameter": "8/10/12 X 25"
+			},
+			{
+				"Art No.": "W007B063PU",
+				"Wheel Diameter X Wheel Height": "63x3",
+				"Overall Height": "90",
+				"Top Plate Size": "92x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "8x11",
+				"Load Capacity (Kg)": "70",
+				"Stem Diameter": "8/10/12 X 25"
+			}
+		]
+	},
+	{
+		"category": "Red PU/PVC Caster Wheel",
+		"description": {
+			"housing": "Pressed steel, zinc plated, Double ball bearing",
+			"material": "PU/PVC"
+		},
+		"images": [
+			"./red-pu-pvc-caster-wheel/W004XXXPVC.png",
+			"./red-pu-pvc-caster-wheel/W004XXXPVCF.png",
+			"./red-pu-pvc-caster-wheel/W004XXXPVCB.png",
+			"./red-pu-pvc-caster-wheel/W004XXXPVCT.png",
+			"./red-pu-pvc-caster-wheel/W004XXXPVCBT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W004075PVC",
+				"Wheel Diameter X Wheel Height": "75x30",
+				"Overall Height": "105",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "80",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040100PVC",
+				"Wheel Diameter X Wheel Height": "100x30",
+				"Overall Height": "130",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "90",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040125PVC",
+				"Wheel Diameter X Wheel Height": "125x30",
+				"Overall Height": "155",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "100",
+				"Stem Diameter": "10/12 x 30"
+			}
+		]
+	},
+	{
+		"category": "Yellow PP Caster",
+		"description": {
+			"housing": "Pressed steel, zinc plated, Double ball bearing",
+			"material": "Polypropylene"
+		},
+		"images": [
+			"./yellow-pp-caster/W004XXXPP.png",
+			"./yellow-pp-caster/W004XXXPPF.png",
+			"./yellow-pp-caster/W004XXXPPB.png",
+			"./yellow-pp-caster/W004XXXPPT.png",
+			"./yellow-pp-caster/W004XXXPPBT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W004075PP",
+				"Wheel Diameter X Wheel Height": "75x30",
+				"Overall Height": "105",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "80",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040100PP",
+				"Wheel Diameter X Wheel Height": "100x30",
+				"Overall Height": "130",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "90",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040125PP",
+				"Wheel Diameter X Wheel Height": "125x30",
+				"Overall Height": "155",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "100",
+				"Stem Diameter": "10/12 x 30"
+			}
+		]
+	},
+	{
+		"category": "Red PVC Light Duty Caster",
+		"description": { "housing": "Pressed steel, zinc plated", "material": "PVC" },
+		"images": [
+			"./red-pvc-light-duty-caster/W007B050PVC.png",
+			"./red-pvc-light-duty-caster/W007B050PVCB.png",
+			"./red-pvc-light-duty-caster/W007B050PVCT.png",
+			"./red-pvc-light-duty-caster/W007B050PVCBT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W007B050PVC",
+				"Wheel Diameter X Wheel Height": "50x20",
+				"Overall Height": "68",
+				"Top Plate Size": "50x50",
+				"Bolt Hole Spacing": "36x36",
+				"Bolt Hole Diameter": "11x6.2",
+				"Load Capacity (Kg)": "35",
+				"Stem Diameter": "8/10/12 x 25"
+			}
+		]
+	},
+	{
+		"category": "Maroon PU/PVC Caster Wheels",
+		"description": {
+			"housing": "Pressed steel, zinc plated, Double ball bearing",
+			"material": "PU/PVC"
+		},
+		"images": [
+			"./maroon-pu-pvc-caster-wheels/W004XXXPVC.png",
+			"./maroon-pu-pvc-caster-wheels/W004XXXPVCF.png",
+			"./maroon-pu-pvc-caster-wheels/W004XXXPVCB.png",
+			"./maroon-pu-pvc-caster-wheels/W004XXXPVCT.png",
+			"./maroon-pu-pvc-caster-wheels/W004XXXPVCBT.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W004075PVC",
+				"Wheel Diameter X Wheel Height": "75x30",
+				"Overall Height": "105",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "80",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040100PVC",
+				"Wheel Diameter X Wheel Height": "100x30",
+				"Overall Height": "130",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "90",
+				"Stem Diameter": "10/12 x 30"
+			},
+			{
+				"Art No.": "W0040125PVC",
+				"Wheel Diameter X Wheel Height": "125x30",
+				"Overall Height": "155",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "100",
+				"Stem Diameter": "10/12 x 30"
+			}
+		]
+	},
+	{
+		"category": "Scaffolding Rubber / CI Bonded Caster Wheels",
+		"description": {},
+		"images": [
+			"./scaffolding-rubber-ci-bonded-caster-wheels/W00XXXSCAFF.png",
+			"./scaffolding-rubber-ci-bonded-caster-wheels/W00XXXSCAFFB.png",
+			"./scaffolding-rubber-ci-bonded-caster-wheels/W00XXXSCAFFBP.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W00150SCAFF",
+				"Wheel Diameter X Wheel Height": "150x40",
+				"Overall Height": "195",
+				"Top Plate Size": "60x120",
+				"Bolt Hole Spacing": "NA",
+				"Load Capacity (Kg)": "130"
+			},
+			{
+				"Art No.": "W00200SCAFF",
+				"Wheel Diameter X Wheel Height": "200x46",
+				"Overall Height": "235",
+				"Top Plate Size": "60x120",
+				"Bolt Hole Spacing": "NA",
+				"Load Capacity (Kg)": "150"
+			},
+			{
+				"Art No.": "W00150SCAFFB",
+				"Wheel Diameter X Wheel Height": "150x50",
+				"Overall Height": "195",
+				"Top Plate Size": "60x120",
+				"Bolt Hole Spacing": "NA",
+				"Load Capacity (Kg)": "180"
+			},
+			{
+				"Art No.": "W00200SCAFFB",
+				"Wheel Diameter X Wheel Height": "200x50",
+				"Overall Height": "235",
+				"Top Plate Size": "60x120",
+				"Bolt Hole Spacing": "NA",
+				"Load Capacity (Kg)": "220"
+			},
+			{
+				"Art No.": "W00150SCAFFBP",
+				"Wheel Diameter X Wheel Height": "150x50",
+				"Overall Height": "195",
+				"Top Plate Size": "NA",
+				"Bolt Hole Spacing": "35x90",
+				"Load Capacity (Kg)": "180"
+			},
+			{
+				"Art No.": "W00200SCAFFBP",
+				"Wheel Diameter X Wheel Height": "200x50",
+				"Overall Height": "235",
+				"Top Plate Size": "NA",
+				"Bolt Hole Spacing": "35x90",
+				"Load Capacity (Kg)": "220"
+			}
+		]
+	},
+	{
+		"category": "Cast Iron Caster",
+		"description": {
+			"housing": "Pressed steel, Zinc plated",
+			"material": "Cast Iron"
+		},
+		"images": [
+			"./cast-iron-caster/W004XXXC.png",
+			"./cast-iron-caster/W004XXXCF.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W004050C",
+				"Wheel Diameter X Wheel Height": "50x20",
+				"Overall Height": "71",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "80"
+			},
+			{
+				"Art No.": "W004075C",
+				"Wheel Diameter X Wheel Height": "75x75",
+				"Overall Height": "105",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "90"
+			},
+			{
+				"Art No.": "W004100C",
+				"Wheel Diameter X Wheel Height": "100x40",
+				"Overall Height": "130",
+				"Top Plate Size": "93x62",
+				"Bolt Hole Spacing": "45x72",
+				"Bolt Hole Diameter": "13x10",
+				"Load Capacity (Kg)": "100"
+			}
+		]
+	},
+	{
+		"category": "Grey Polyurethane/PVC Caster (Anti Skid)",
+		"description": {
+			"housing": "Solid steel welded construction, zinc plated",
+			"material": "Polyurethane / PVC"
+		},
+		"images": [
+			"./grey-polyurethane-pvc-caster/W005XXXYGVC.png",
+			"./grey-polyurethane-pvc-caster/W005XXXYGVCF.png",
+			"./grey-polyurethane-pvc-caster/W005XXXYGVCB.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W005100YGVC",
+				"Wheel Diameter X Wheel Height": "100x50",
+				"Overall Height": "135",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "200"
+			},
+			{
+				"Art No.": "W005125YGVC",
+				"Wheel Diameter X Wheel Height": "125x50",
+				"Overall Height": "158",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "250"
+			},
+			{
+				"Art No.": "W005150YGVC",
+				"Wheel Diameter X Wheel Height": "150x50",
+				"Overall Height": "188",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "300"
+			}
+		]
+	},
+	{
+		"category": "Grey Rubber Caster (Foam Type)",
+		"description": {
+			"housing": "Solid steel welded construction, zinc plated",
+			"material": "Foam rubber"
+		},
+		"images": [
+			"./grey-rubber-caster-foam-type/W005XXXGBL.png",
+			"./grey-rubber-caster-foam-type/W005XXXGBLF.png",
+			"./grey-rubber-caster-foam-type/W005XXXGBLB.png"
+		],
+		"variants": [
+			{
+				"Art No.": "W005100GBL",
+				"Wheel Diameter X Wheel Height": "100x53",
+				"Overall Height": "135",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "180"
+			},
+			{
+				"Art No.": "W005125GBL",
+				"Wheel Diameter X Wheel Height": "125x53",
+				"Overall Height": "158",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "200"
+			},
+			{
+				"Art No.": "W005150GBL",
+				"Wheel Diameter X Wheel Height": "150x53",
+				"Overall Height": "188",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "230"
+			},
+			{
+				"Art No.": "W005200GBL",
+				"Wheel Diameter X Wheel Height": "200x53",
+				"Overall Height": "237",
+				"Top Plate Size": "115x100",
+				"Bolt Hole Spacing": "85x73",
+				"Bolt Hole Diameter": "20x13",
+				"Load Capacity (Kg)": "250"
+			}
+		]
+	},
+	{
+        "id": "solid-rubber-caster",
+        "category": "Solid Rubber Caster",
+        "images": [
+			"./solid-rubber-caster/W00XXXXPP.png",
+			"./solid-rubber-caster/W00XXXXPPF.png",
+			"./solid-rubber-caster/W00XXXXPPB.png"
+		],
+        "description": {
+            "housing": "Solid steel welded construction, zinc plated",
+            "material": "Polypropylene"
+        },
+        "variants": [
+            {
+                "Art No.": "W005100PP",
+                "Wheel Diameter X Wheel Height": "100x42",
+                "Overall Height": "135",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "130"
+            },
+            {
+                "Art No.": "W005125PP",
+                "Wheel Diameter X Wheel Height": "125x42",
+                "Overall Height": "158",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "185"
+            },
+            {
+                "Art No.": "W005150PP",
+                "Wheel Diameter X Wheel Height": "150x42",
+                "Overall Height": "188",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "250"
+            },
+            {
+                "Art No.": "W005200PP",
+                "Wheel Diameter X Wheel Height": "200x42",
+                "Overall Height": "237",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "300"
+            }
+        ]
+    },
+    {
+        "id": "polypropylene-caster",
+        "category": "Polypropylene Caster (MD)",
+        "images": [
+			"./polypropylene-caster/W00XXXXPP.png",
+			"./polypropylene-caster/W00XXXXPPF.png",
+			"./polypropylene-caster/W00XXXXPPB.png"
+		],
+        "description": {
+            "housing": "Solid steel welded construction, zinc plated",
+            "material": "Polypropylene"
+        },
+        "variants": [
+            {
+                "Art No.": "W005100PP",
+                "Wheel Diameter X Wheel Height": "100x42",
+                "Overall Height": "135",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "130"
+            },
+            {
+                "Art No.": "W005125PP",
+                "Wheel Diameter X Wheel Height": "125x42",
+                "Overall Height": "158",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "185"
+            },
+            {
+                "Art No.": "W005150PP",
+                "Wheel Diameter X Wheel Height": "150x42",
+                "Overall Height": "188",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "250"
+            },
+            {
+                "Art No.": "W005200PP",
+                "Wheel Diameter X Wheel Height": "200x42",
+                "Overall Height": "237",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "300"
+            }
+        ]
+    },
+    {
+        "id": "red-polyurethane-caster",
+        "category": "Red Polyurethane Caster",
+        "images": [
+            "./red-polyurethane-caster/W00XXXXPU.png",
+            "./red-polyurethane-caster/W00XXXXPUF.png",
+            "./red-polyurethane-caster/W00XXXXPUB.png"
+        ],
+        "description": {
+            "housing": "Solid steel welded construction, zinc plated",
+            "material": "Polyurethane"
+        },
+        "variants": [
+            {
+                "Art No.": "W005100PU",
+                "Wheel Diameter X Wheel Height": "100x50",
+                "Overall Height": "135",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "200"
+            },
+            {
+                "Art No.": "W005125PU",
+                "Wheel Diameter X Wheel Height": "125x50",
+                "Overall Height": "158",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "250"
+            },
+            {
+                "Art No.": "W005150PU",
+                "Wheel Diameter X Wheel Height": "150x50",
+                "Overall Height": "188",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "350"
+            },
+            {
+                "Art No.": "W005200PU",
+                "Wheel Diameter X Wheel Height": "200x50",
+                "Overall Height": "237",
+                "Top Plate Size": "115x100",
+                "Bolt Hole Spacing": "85x73",
+                "Bolt Hole Diameter": "20x13",
+                "Load Capacity (Kg)": "380"
+            }
+        ]
+    },
+    {
+        "id": "forged-caster",
+        "category": "Forged Caster",
+        "images": [
+            "./forged-caster/W00XXXXFC01.png",
+            "./forged-caster/W00XXXXFC02.png",
+            "./forged-caster/W00XXXXFC03.png",
+			"./forged-caster/W00XXXXFC04.png"
+        ],
+        "description": {
+            "housing": "Solid steel welded construction",
+            "material": "Forged Steel"
+        },
+        "variants": []
+    },
+    {
+        "id": "adjustable-pu-pvc-caster",
+        "category": "Adjustable PU/PVC Caster",
+        "images": [
+            "./adjustable-pu-pvc-caster/W004XXXADJ01.png",
+            "./adjustable-pu-pvc-caster/W004XXXADJ02.png"
+        ],
+        "description": {
+            "housing": "Made of Pressed Steel Bracket Galvanized",
+            "material": "PU/PVC"
+        },
+        "variants": [
+            {
+                "Art No.": "W004050ADJ",
+                "Wheel Diameter X Wheel Height": "50x24",
+                "Overall Height": "70",
+                "Top Plate Size": "60x60",
+                "Bolt Hole Spacing": "45x45",
+                "Bolt Hole Diameter": "6.2",
+                "Load Capacity (Kg)": "50"
+            },
+            {
+                "Art No.": "W004065ADJ",
+                "Wheel Diameter X Wheel Height": "65x32",
+                "Overall Height": "89",
+                "Top Plate Size": "92x63",
+                "Bolt Hole Spacing": "75x47",
+                "Bolt Hole Diameter": "8x11",
+                "Load Capacity (Kg)": "80"
+            },
+            {
+                "Art No.": "W004075ADJ",
+                "Wheel Diameter X Wheel Height": "75x32",
+                "Overall Height": "107",
+                "Top Plate Size": "92x63",
+                "Bolt Hole Spacing": "75x47",
+                "Bolt Hole Diameter": "8x11",
+                "Load Capacity (Kg)": "90"
+            },
+            {
+                "Art No.": "W004100ADJ",
+                "Wheel Diameter X Wheel Height": "100x32",
+                "Overall Height": "110",
+                "Top Plate Size": "92x63",
+                "Bolt Hole Spacing": "75x47",
+                "Bolt Hole Diameter": "8x11",
+                "Load Capacity (Kg)": "100"
+            }
+        ]
+    },
+    {
+        "id": "low-profile-nylon-caster",
+        "category": "Low Profile Nylon Caster",
+        "images": [
+            "./low-profile-nylon-caster/W007BXXXNY.png",
+            "./low-profile-nylon-caster/W007BXXXNYF.png",
+            "./low-profile-nylon-caster/W007BXXXNYB.png",
+            "./low-profile-nylon-caster/W007BXXXNYB.png"
+        ],
+        "description": {
+            "housing": "Made of pressed steel, electrophoresis finish, double ballrace swivel head",
+            "material": "Nylon/PP"
+        },
+        "variants": [
+            {
+                "Art No.": "W007B050NY",
+                "Wheel Diameter X Wheel Height": "50x30",
+                "Overall Height": "70",
+                "Top Plate Size": "72x53",
+                "Bolt Hole Spacing": "55x38",
+                "Bolt Hole Diameter": "6x8",
+                "Load Capacity (Kg)": "100"
+            },
+            {
+                "Art No.": "W007B065NY",
+                "Wheel Diameter X Wheel Height": "65x40",
+                "Overall Height": "90.2",
+                "Top Plate Size": "95x68",
+                "Bolt Hole Spacing": "72x43",
+                "Bolt Hole Diameter": "9x11",
+                "Load Capacity (Kg)": "200"
+            },
+            {
+                "Art No.": "W007B075NY",
+                "Wheel Diameter X Wheel Height": "75x45",
+                "Overall Height": "105",
+                "Top Plate Size": "105x80",
+                "Bolt Hole Spacing": "72x43",
+                "Bolt Hole Diameter": "9x11",
+                "Load Capacity (Kg)": "250"
+            }
+        ]
+    },
+    {
+        "id": "leveling-caster",
+        "category": "Leveling Caster",
+        "images": [
+            "./leveling-caster/W018-40F.png",
+            "./leveling-caster/W018-60F.png",
+            "./leveling-caster/W018-80F.png",
+            "./leveling-caster/W018-100F.png",
+			"./leveling-caster/W018-120F.png"
+        ],
+        "description": {
+            "housing": "Die-cast aluminum with powder coat finish",
+            "material": "Nylon wheel"
+        },
+        "variants": [
+            {
+                "Art No.": "W018-40F/S",
+                "Wheel Diameter": "40",
+                "Overall Height": "75+8",
+                "Top Plate Size": "55x55x3",
+                "Load Capacity (Single, Kg)": "50"
+            },
+            {
+                "Art No.": "W018-60F/S",
+                "Wheel Diameter": "50",
+                "Overall Height": "85+10",
+                "Top Plate Size": "73x73x5",
+                "Load Capacity (Single, Kg)": "250"
+            },
+            {
+                "Art No.": "W018-80F/S",
+                "Wheel Diameter": "62",
+                "Overall Height": "110+12",
+                "Top Plate Size": "90x90x5",
+                "Load Capacity (Single, Kg)": "500"
+            },
+            {
+                "Art No.": "W018-100F/S",
+                "Wheel Diameter": "75",
+                "Overall Height": "120+12",
+                "Top Plate Size": "95x95x5",
+                "Load Capacity (Single, Kg)": "750"
+            },
+            {
+                "Art No.": "W018-120F/S",
+                "Wheel Diameter": "75",
+                "Overall Height": "120+12",
+                "Top Plate Size": "95x95x6",
+                "Load Capacity (Single, Kg)": "1000"
+            },
+            {
+                "Art No.": "W018-150F/S",
+                "Wheel Diameter": "90",
+                "Overall Height": "132+15",
+                "Top Plate Size": "100x100x6",
+                "Load Capacity (Single, Kg)": "1500"
+            }
+        ]
+    },
+    {
+        "id": "brown-tpr-caster",
+        "category": "Brown TPR Caster",
+        "images": [
+            "./brown-tpr-caster/W007B0XXTPR.png",
+            "./brown-tpr-caster/W007B0XXTPRF.png",
+            "./brown-tpr-caster/W007B0XXTPRB.png",
+            "./brown-tpr-caster/W007B0XXTPRP.png",
+			"./brown-tpr-caster/W007B0XXTPRBP.png",
+			"./brown-tpr-caster/W007B0XXTPRT.png",
+			"./brown-tpr-caster/W007B0XXTPRBT.png"
+        ],
+        "description": {
+            "housing": "Made of pressed steel, chrome plated, double ballrace swivel head",
+            "material": "Thermoplastic Rubber"
+        },
+        "variants": [
+            {
+                "Art No.": "W007B025TPR",
+                "Wheel Diameter X Wheel Height": "25x12",
+                "Overall Height": "37",
+                "Load Capacity (Kg)": "10"
+            },
+            {
+                "Art No.": "W007B032TPR",
+                "Wheel Diameter X Wheel Height": "32x12",
+                "Overall Height": "44",
+                "Load Capacity (Kg)": "15"
+            },
+            {
+                "Art No.": "W007B038TPR",
+                "Wheel Diameter X Wheel Height": "38x16",
+                "Overall Height": "52",
+                "Load Capacity (Kg)": "20"
+            },
+            {
+                "Art No.": "W007B050TPR",
+                "Wheel Diameter X Wheel Height": "50x20",
+                "Overall Height": "77",
+                "Load Capacity (Kg)": "35"
+            },
+            {
+                "Art No.": "W007B063TPR",
+                "Wheel Diameter X Wheel Height": "63x20",
+                "Overall Height": "90",
+                "Load Capacity (Kg)": "45"
+            },
+            {
+                "Art No.": "W007B075TPR",
+                "Wheel Diameter X Wheel Height": "75x25",
+                "Overall Height": "104",
+                "Load Capacity (Kg)": "55"
+            }
+        ]
+    },
+    {
+        "id": "medical-caster-twin",
+        "category": "Medical (Twin) Caster",
+        "images": [
+            "./medical-caster-twin/M00XXXTWTPR.png",
+            "./medical-caster-twin/M00XXXTWTPRB.png",
+            "./medical-caster-twin/M00XXXTWTPRT.png",
+            "./medical-caster-twin/M00XXXTWTPRBT.png"
+        ],
+        "description": {
+            "application": "Hospital beds, Medical equipment trolleys",
+            "material": "PU-TPR"
+        },
+        "variants": [
+            {
+                "Art No.": "M00075TWTPR",
+                "Wheel Diameter X Wheel Height": "75x56",
+                "Overall Height": "102",
+                "Load Capacity (Kg)": "60"
+            },
+            {
+                "Art No.": "M00100TWTPR",
+                "Wheel Diameter X Wheel Height": "100x56",
+                "Overall Height": "125",
+                "Load Capacity (Kg)": "80"
+            },
+            {
+                "Art No.": "M00125TWTPR",
+                "Wheel Diameter X Wheel Height": "125x65",
+                "Overall Height": "155",
+                "Load Capacity (Kg)": "125"
+            }
+        ]
+    },
+    {
+        "id": "medical-caster",
+        "category": "Medical Caster",
+        "images": [
+            "./medical-caster/M00XXXTPR.png",
+            "./medical-caster/M00XXXTPRB.png",
+            "./medical-caster/M00XXXTPRT.png",
+            "./medical-caster/M00XXXTPRBT.png",
+			"./medical-caster/M00XXXTPRP.png",
+			"./medical-caster/M00XXXTPRBP.png"
+        ],
+        "description": {
+            "application": "Hospital beds, Medical equipment trolleys",
+            "material": "PU-TPR"
+        },
+        "variants": [
+            {
+                "Art No.": "M00075TPR",
+                "Wheel Diameter X Wheel Height": "75x30",
+                "Overall Height": "102",
+                "Load Capacity (Kg)": "60"
+            },
+            {
+                "Art No.": "M00100TPR",
+                "Wheel Diameter X Wheel Height": "100x30",
+                "Overall Height": "125",
+                "Load Capacity (Kg)": "80"
+            },
+            {
+                "Art No.": "M00125TPR",
+                "Wheel Diameter X Wheel Height": "125x30",
+                "Overall Height": "155",
+                "Load Capacity (Kg)": "125"
+            }
+        ]
+    }
+]

@@ -1,35 +1,53 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useState } from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import HomePage from './pages/HomePage';
+import ProductsPage from './pages/ProductsPage';
+import ProductDetailPage from './pages/ProductDetailPage';
 
 function App() {
-  const [count, setCount] = useState(0)
+    const [page, setPage] = useState({ currentPage: 'home', selectedProduct: null });
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    const handleNavigate = (pageName) => {
+        setPage({ currentPage: pageName, selectedProduct: null });
+        setIsMobileMenuOpen(false);
+        window.scrollTo(0, 0);
+    };
+
+    const handleProductSelect = (product) => {
+        setPage({ currentPage: 'productDetail', selectedProduct: product });
+        setIsMobileMenuOpen(false);
+        window.scrollTo(0, 0);
+    };
+
+    const renderPage = () => {
+        switch (page.currentPage) {
+            case 'home':
+                return <HomePage onProductSelect={handleProductSelect} onNavigate={handleNavigate} />;
+            case 'products':
+                return <ProductsPage onProductSelect={handleProductSelect} />;
+            case 'productDetail':
+                return <ProductDetailPage product={page.selectedProduct} onBack={() => handleNavigate('products')} />;
+            default:
+                return <HomePage onProductSelect={handleProductSelect} onNavigate={handleNavigate} />;
+        }
+    };
+
+    return (
+        <div className="min-h-screen bg-gray-50 flex flex-col">
+            <Header 
+                currentPage={page.currentPage} 
+                onNavigate={handleNavigate} 
+                isMobileMenuOpen={isMobileMenuOpen}
+                setIsMobileMenuOpen={setIsMobileMenuOpen}
+            />
+            <main className="flex-grow">
+                {renderPage()}
+            </main>
+            <Footer />
+        </div>
+    );
 }
 
-export default App
+export default App;
