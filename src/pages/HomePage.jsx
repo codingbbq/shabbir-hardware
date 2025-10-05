@@ -7,7 +7,7 @@ const AboutUs = () => (
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center">
                 <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                    Keeping Your World in Motion
+                    Experts in Industrial and Medical Hardware Supply
                 </h2>
                 <p className="mt-4 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
                     At Shabbir Hardware, we're dedicated to providing top-tier caster solutions that bring mobility and efficiency to your operations. As a forward-thinking startup, we're passionate about delivering products that aren't just parts, but partners in your success.
